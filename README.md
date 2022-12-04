@@ -84,20 +84,7 @@ section {
     justify-content: center;
     align-items: center;
 }
-.box .cube .topp ::before {
-    content: '';
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    background: #fb6200;
-    transform: translateZ(-400px);
-    filter: blur(50px);
-    box-shadow: 0 0 120px rgba(251, 98, 0,0.2),
-    0 0 200px rgba(251, 98, 0,0.2),
-    0 0 300px rgba(251, 98, 0,0.6),
-    0 0 400px rgba(251, 98, 0,0.8),
-    0 0 500px rgba(251, 98, 0, 1);
-}
+
     </style>
 </head>
 <body>
